@@ -66,8 +66,11 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alberto-nibbi)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=firefox)](https://alboz96.github.io/)
+
 [![LinkTree](https://img.shields.io/badge/LinkTree-View-green?style=for-the-badge&logo=linktree)](https://linktr.ee/alberto_nibbi)
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alberto.nibbi.job@gmail.com)
 
 
