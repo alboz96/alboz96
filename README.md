@@ -61,6 +61,7 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alboz96&show_icons=true&theme=tokyonight)
 
+![GitHub Stats2](https://github-readme-streak-stats.herokuapp.com/?user=alboz96&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&border=FFFFFF)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alboz96&theme=ambient_gradient&show_icons=true&locale=en" alt="alboz96" /></p>   -->
 
 
