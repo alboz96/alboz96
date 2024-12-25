@@ -52,7 +52,16 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 - A complete tutorial of Angular 2
 - [View Project](https://alboz96.github.io/progetto-angular2-alberto)
 
-### [Project Name 3: Graph 3D Visualization and Modelling]
+### [Project Name 3: Repetitions/Tutoring App Vue + Java + PostgreSQL + Docker + AWS ]
+**Technologies**: 
+- Frontend: VueJs
+- Backend: JavaEE
+- DB: PostgreSQL
+- VM: Docker container
+- Cloud: AWS
+- [View Project](http://ec2-35-156-130-172.eu-central-1.compute.amazonaws.com/login)
+
+### [Project Name 4: Graph 3D Visualization and Modelling]
 - **Technologies**: Angular, NgPrime, NestJS, MongoDB, Three.js, WebGL
 - Created an interactive 3D graph visualization platform
 - [View Project](https://github.com/username/project2)
