@@ -1,4 +1,4 @@
-[![SuperMario](/images/supermario.gif)]
+![SuperMario](/images/supermario.gif)
 <h2 align="center">Hi 👋, I'm a passionate FullStack Web Developer</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alboz96&label=Profile%20views&color=0e75b6&style=flat" alt="alboz96" /> </p>
 
