@@ -1,13 +1,12 @@
-[![SuperMario](/images/supermario.gif)](https://linktr.ee/alberto_nibbi) 
-<h1 align="center">Hi 👋, I'm Alberto Nibbi</h1>
-<h3 align="center">A passionate FullStack Web Developer</h3>
+[![SuperMario](/images/supermario.gif)]
+<h2 align="center">Hi 👋, I'm a passionate FullStack Web Developer</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alboz96&label=Profile%20views&color=0e75b6&style=flat" alt="alboz96" /> </p>
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alboz96&theme=radical" alt="alboz96" /></a> </p>
 
-# Alberto Nibbi | Full Stack Web Developer
+# Full Stack Web Developer
 
 ## 🚀 Professional Summary
 
@@ -77,16 +76,6 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alboz96&date_format=j%2Fn%5B%2FY%5D&fire=18EB2C&background=45%2C0D00FF%2C25EBAD&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak" /></p> -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alboz96&layout=compact)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alberto-nibbi)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=firefox)](https://alboz96.github.io/)
-
-[![LinkTree](https://img.shields.io/badge/LinkTree-View-green?style=for-the-badge&logo=linktree)](https://linktr.ee/alberto_nibbi)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alberto.nibbi.job@gmail.com)
 
 
 
